@@ -14,7 +14,7 @@ convertBtn.addEventListener('click', function () {
             updateButtonState("Sound is Playing...");
             setTimeout(() => {
                 updateButtonState("Play Converted Sound");
-            }, 5000);
+            }, 3000);
         }
     }
 });
